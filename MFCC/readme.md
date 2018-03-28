@@ -142,6 +142,8 @@
 
 ### 进一步计划
 
+[传统识别系统](recognition.md)
+
 [基音周期等特征工程](基音周期估计.md)
 
 [voicebox 处理音频实践](https://blog.csdn.net/u014646950/article/details/55050696)
