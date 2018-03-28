@@ -6,9 +6,9 @@
 
 1. ## 人耳听觉机理
 
-    <img src="images/人耳听觉效应.png"width="80%"height="80%" />
+    <img src="images/人耳听觉效应.png" width="80%"height="80%" />
 
-    <img src="images/人类识别语音.jpg"width="65%"height="65%" />
+    <img src="images/人类识别语音.jpg" width="65%"height="65%" />
 
 1. ## 认识音频
 
@@ -92,7 +92,7 @@
 
 1. ## Mel 频率分析（Mel-Frequency Analysis）
 
-    <img src="images/Mel频率分析.png"width="70%"height="70%" />
+    <img src="images/Mel频率分析.png" width="70%"height="70%" />
 
     > 举例来说，如果两段语音的Mel频率相差两倍，则人耳听起来两者的音调也相差两倍。
 
@@ -117,7 +117,7 @@
 
 1. ## 总结以上过程 --> MFCC 声学特征提取
 
-    <img src="images/MFCC.png"width="70%"height="70%" />
+    <img src="images/MFCC.png "width="70%"height="70%" />
 
     > MFCC在1980年由Davis和Mermelstein提出。从那时起，在语音识别领域，MFCCs在人工特征方面可谓是鹤立鸡群，一枝独秀。
 
@@ -128,11 +128,11 @@
         1. 将上面的频谱通过Mel滤波器组得到Mel频谱；
         1. 在Mel频谱上面进行倒谱分析（取对数，做逆变换，实际逆变换一般是通过DCT离散余弦变换来实现，取DCT后的第2个到第13个系数作为MFCC系数），获得Mel频率倒谱系数MFCC
 
-        <img src="images/mfcc_process.jpg"width="50%"height="50%" />
+        <img src="images/mfcc_process.jpg" width="50%"height="50%" />
 
         这时候，语音就可以通过一系列的倒谱向量来描述了，每个向量就是每帧的MFCC特征向量。
 
-        <img src="images/mfcc_vector.jpg"width="50%"height="50%" />
+        <img src="images/mfcc_vector.jpg" width="50%"height="50%" />
 
         这样就可以通过这些倒谱向量对语音分类器进行训练和识别了。
 
