@@ -117,7 +117,7 @@
 
 1. ## 总结以上过程 --> MFCC 声学特征提取
 
-    <img src="images/MFCC.png "width="70%" height="70%" />
+    <img src="images/MFCC.png" width="70%" height="70%" />
 
     > MFCC在1980年由Davis和Mermelstein提出。从那时起，在语音识别领域，MFCCs在人工特征方面可谓是鹤立鸡群，一枝独秀。
 
