@@ -192,4 +192,4 @@ CTC 的训练过程是通过<img src="https://latex.codecogs.com/gif.latex?\frac
 
 ### reference
 
-- [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](Connectionist Temporal Classification.pdf)
+- [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](Connectionist-Temporal-Classification.pdf)
