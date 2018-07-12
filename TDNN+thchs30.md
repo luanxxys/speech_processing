@@ -5,7 +5,7 @@
 - [THCHS-30 : A Free Chinese Speech Corpus](https://arxiv.org/abs/1512.01882)
 - [THCHS-30 download](http://www.openslr.org/18/)
 - [CVTE 公司开源训练好的 TDNN 模型](http://kaldi-asr.org/models.html)
-- [配置好 kaldi 环境](https://github.com/luanxxys/env/blob/master/kaldi.md)
+- [配置好 kaldi 环境](kaldi/readme.md)
 
 ## prediction
 

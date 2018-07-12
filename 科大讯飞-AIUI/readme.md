@@ -4,10 +4,10 @@
 
 ### 主要内容
 
-- MSC 相关资料
+- [MSC 相关资料](MSC)
 - [AIUI overview](AIUI.md)
-- 调用 WebAPI 实现离线语音的识别（配置服务器端 + Python）
-- 其它 AIUI 相关资料
+- [调用 WebAPI 实现离线语音的识别](WebAPI-demo)（配置服务器端 + Python）
+- 其它 AIUI 相关资料(check 文件夹)
 
 ### 体会
 

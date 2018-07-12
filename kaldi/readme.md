@@ -33,3 +33,8 @@ kaldi 是一款基于 c++ 编写的完全开源的语音识别工具箱。
             windows- 在 windows 上运行 kaldi 的工具.
 
         很明显,最重要的部分是 egs. 在这里你可以创建你自己的 ASR 系统。
+
+- ## 案例
+
+    + ### [yes/no](yesno.md)
+    + ### [TIMIT](timit.md)(待完善)

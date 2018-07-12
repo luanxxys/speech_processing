@@ -12,15 +12,15 @@
 
 - **阈值逻辑单元(Threshold logic unit, TLU)** -- 第１个人工神经元.
 
-- **感知器(Perception)**一般是指单层非线性变换的网络结构, 它仅对线性可分问题具有分类能力, 对于线性不可分问题只能做近似分类.
+- **感知器(Perception)** 一般是指单层非线性变换的网络结构, 它仅对线性可分问题具有分类能力, 对于线性不可分问题只能做近似分类.
 
 - **MLP** 是一种多层的非线性变换模型, 其具有强大的表达和建模能力. 但由于 MLP 的各层激活函数均为非线性函数, 模型训练中的损失函数是模型参数的非凸复杂函数. 并且, 随着层数的增多, 非凸目标函数越来越复杂, 局部最小值点成倍增长, 很难进行优化, 使用 BP 进行算法进行网络训练时很难获得全局最优解. 使能力无法展现.
 
-- **自动编码器(auto encoder, AE) **是由自动关联器演变而来的. 自动关联器是一种 MLP 结构, 其中输出、输入维度一样, 并定义输出等于输入.
+- **自动编码器(auto encoder, AE)** 是由自动关联器演变而来的. 自动关联器是一种 MLP 结构, 其中输出、输入维度一样, 并定义输出等于输入.
 
-- **深度自动编码器 DAE**: 由多个自动编码器堆叠而成的网络, 它属于无监督模型.
+- **深度自动编码器 DAE** : 由多个自动编码器堆叠而成的网络, 它属于无监督模型.
 
-- **深度置信网络(Deep Belief Networks, DBN)**是 Hinton 等学者在 2006 年提出的一种无监督的概率生成模型. 用 DBN 来初始化 MLP 各层的网络参数能够解决其目标函数难以优化的问题.
+- **深度置信网络(Deep Belief Networks, DBN)** 是 Hinton 等学者在 2006 年提出的一种无监督的概率生成模型. 用 DBN 来初始化 MLP 各层的网络参数能够解决其目标函数难以优化的问题.
 
 - **DNN**: 一般称使用DBN来初始化的MLP为DNN. DNN模型的训练阶段大致分为两个步骤：
 
@@ -197,7 +197,7 @@ AISHELL-2 采用 iOS 系统手机录制的语音数据。
 
 ## 5 传统识别方法 -- GMM+HMM
 
-<img src="images/frame.PNG" width="75%" height="75%" />
+<img src="images/frame.png" width="75%" height="75%" />
 
 ### MFCC
 
@@ -240,7 +240,7 @@ AISHELL-2 采用 iOS 系统手机录制的语音数据。
 
 ### 新旧系统框架对比
 
-<img src="images/frame.PNG" width="65%" height="65%" />
+<img src="images/frame.png" width="65%" height="65%" />
 
 <img src="images/ctc_frame.PNG" width="65%" height="65%" />
 
@@ -249,4 +249,3 @@ AISHELL-2 采用 iOS 系统手机录制的语音数据。
 <img src="images/wer_1.PNG" width="65%" height="65%" />
 
 <img src="images/wer_2.PNG" width="65%" height="65%" />
-
