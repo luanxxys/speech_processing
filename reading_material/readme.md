@@ -17,3 +17,9 @@
 - [小米的语音识别系统是如何搭建的](http://www.sohu.com/a/169229333_723464)
 
 - 基于注意力机制的 seq2seq 模型
+
+[Facebook开源端到端自动语音识别系统wav2letter](https://zhuanlan.zhihu.com/p/32636861)
+
+[业界 | 谷歌发布全新端到端语音识别系统：词错率降至5.6%](https://ai.googleblog.com/2017/12/improving-end-to-end-models-for-speech.html)
+
+[显著超越流行长短时记忆网络，阿里提出DFSMN语音识别声学模型]
