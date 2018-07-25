@@ -1,5 +1,9 @@
 # GMM-HMM SR Model
 
+- [从朴素贝叶斯到隐马尔科夫模型](从朴素贝叶斯到隐马尔科夫模型.pdf)
+- [viterbi](viterbi.pdf)
+- [HMM模型+Viterbi算法实例](HMM模型+Viterbi算法实例.pdf)
+
 ## 待完善, 目前状态不能上架
 
 ## GMM
