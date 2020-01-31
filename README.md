@@ -14,7 +14,6 @@
 
 - ### 调用 API 实现 ASR
 
-    + [ASR_GoogleAPI](ASR_GoogleAPI)
     + [科大讯飞 AIUI](科大讯飞-AIUI)
 
 - ### ASR 理论与实践
@@ -34,4 +33,4 @@
 
 - ### Issue
 
-    补全各条目下概述.
+    太多无效内容，进行大删减。

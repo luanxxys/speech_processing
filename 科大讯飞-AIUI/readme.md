@@ -1,13 +1,12 @@
 # 科大讯飞 AIUI
 
-缘于导师要求，查阅了关于 科大讯飞 AIUI 平台的资料。
+缘于导师要求，查阅了关于科大讯飞 AIUI 平台的资料。
 
 ### 主要内容
 
 - [MSC 相关资料](MSC)
 - [AIUI overview](AIUI.md)
 - [调用 WebAPI 实现离线语音的识别](WebAPI-demo)（配置服务器端 + Python）
-- 其它 AIUI 相关资料(check 文件夹)
 
 ### 体会
 

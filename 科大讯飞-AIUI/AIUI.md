@@ -20,7 +20,7 @@
 
 - ### 产品特性
 
-    ![产品特性](images/产品特性.PNG)
+    ![产品特性](images/产品方案.PNG)
 
 - ### 概述
 
@@ -30,7 +30,7 @@
 
 - ### WebAPI demo
 
-    [WebAPI-demo(文件夹内)](WebAPI-demo)
+    [WebAPI-demo](WebAPI-demo)
 
 - ### 参考资料
 
@@ -42,7 +42,7 @@
         * AIUI 接口、状态
         * AIUI 智能硬件解决方案与移动端解决方案的区别
 
-    + ##### [AIUI产品白皮书.pdf（文件夹内）](AIUI产品白皮书.pdf)
+    + ##### [AIUI产品白皮书.pdf](AIUI产品白皮书.pdf)
         * 产品定义
         * 产品框架
         * 产品特性
@@ -58,14 +58,14 @@
             - 交互核心算法
             - 离线语音合成
 
-    + ##### [语义API文档.pdf（文件夹内）](语义API文档.pdf)
+    + ##### [语义API文档.pdf](语义API文档.pdf)
 
-    + ##### [AIUI---常见开发文档链接.docx（文件夹内）](AIUI---常见开发文档链接.docx)
+    + ##### [AIUI---常见开发文档链接.docx](AIUI---常见开发文档链接.docx)
 
     + ##### 附件：Android demo
 
-        [AIUI集成指南.pdf（文件夹内）](AIUI集成指南.pdf)
+        [AIUI集成指南.pdf](AIUI集成指南.pdf)
 
-        [AIUI移动解决方案深度体验-Android.pdf（文件夹内）](AIUI移动解决方案深度体验-Android.pdf)
+        [AIUI移动解决方案深度体验-Android.pdf](AIUI移动解决方案深度体验-Android.pdf)
 
         [科大讯飞AIUI智能语音体验（含完整 demo 代码、文档）（click to get）](https://www.jianshu.com/p/b548671e0541)

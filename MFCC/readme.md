@@ -305,8 +305,8 @@ title('维数于幅值的关系');
 
         大量实验表明，在语音特征中加入表征语音动态特性的差分参数，能够提高系统的识别性能。
 
-### Thinks
+### Thanks
 
-+ [CSDN_wbglearn](http://blog.csdn.net/wbgxx333/article/details/10020449)
+- [CSDN_wbglearn](http://blog.csdn.net/wbgxx333/article/details/10020449)
 
-+ [CSDN_JameJuZhang](http://blog.csdn.net/jojozhangju/article/details/18678861)
+- [CSDN_JameJuZhang](http://blog.csdn.net/jojozhangju/article/details/18678861)

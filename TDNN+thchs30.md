@@ -76,7 +76,7 @@
 
     ![](images/result.PNG)
 
-## Reference
+## reference
 
     模型开源者：CVTE 中央研究院语音组
     联系人：雷延强
